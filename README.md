@@ -45,3 +45,10 @@ When malicious instructions appear inside retrieved KB content, the agent:
 - refuses privileged tool execution
 - logs a security event
 - continues with a safe dashboard summary
+
+## How to run
+
+Clone the repository and run the agent demo:
+
+```bash
+python agent.py
