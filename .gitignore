@@ -1,0 +1,10 @@
+# This file tells Git which files and folders should not be uploaded to GitHub
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
